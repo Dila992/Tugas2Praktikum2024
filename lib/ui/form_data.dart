@@ -18,7 +18,7 @@ class FormDataState extends State<FormData> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Input Data"),
-        backgroundColor: Colors.teal, // Warna AppBar
+        backgroundColor: Colors.teal, 
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
